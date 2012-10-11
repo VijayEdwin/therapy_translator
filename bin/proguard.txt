@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:7
+-keep class come.vijayedwin.therapy_translator.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:7
+-keepclassmembers class * { *** sendMessage_1(...); }
+
+# onClick res/layout/main.xml #generated:52
+-keepclassmembers class * { *** sendMessage_10(...); }
+
+# onClick res/layout/main.xml #generated:57
+-keepclassmembers class * { *** sendMessage_11(...); }
+
+# onClick res/layout/main.xml #generated:12
+-keepclassmembers class * { *** sendMessage_2(...); }
+
+# onClick res/layout/main.xml #generated:17
+-keepclassmembers class * { *** sendMessage_3(...); }
+
+# onClick res/layout/main.xml #generated:22
+-keepclassmembers class * { *** sendMessage_4(...); }
+
+# onClick res/layout/main.xml #generated:27
+-keepclassmembers class * { *** sendMessage_5(...); }
+
+# onClick res/layout/main.xml #generated:32
+-keepclassmembers class * { *** sendMessage_6(...); }
+
+# onClick res/layout/main.xml #generated:37
+-keepclassmembers class * { *** sendMessage_7(...); }
+
+# onClick res/layout/main.xml #generated:42
+-keepclassmembers class * { *** sendMessage_8(...); }
+
+# onClick res/layout/main.xml #generated:47
+-keepclassmembers class * { *** sendMessage_9(...); }
+
