@@ -1,0 +1,24 @@
+/home/vijay/dev/android/therapy_translator/bin/therapy_translator.ap_ \
+ : /home/vijay/dev/android/therapy_translator/res/raw/three \
+/home/vijay/dev/android/therapy_translator/res/raw/thankyouandphysicaltherapy.mp3 \
+/home/vijay/dev/android/therapy_translator/res/raw/first \
+/home/vijay/dev/android/therapy_translator/res/raw/eleven \
+/home/vijay/dev/android/therapy_translator/res/raw/nine \
+/home/vijay/dev/android/therapy_translator/res/raw/six \
+/home/vijay/dev/android/therapy_translator/res/raw/eight \
+/home/vijay/dev/android/therapy_translator/res/raw/ten \
+/home/vijay/dev/android/therapy_translator/res/raw/seven \
+/home/vijay/dev/android/therapy_translator/res/raw/four \
+/home/vijay/dev/android/therapy_translator/res/raw/two \
+/home/vijay/dev/android/therapy_translator/res/raw/five \
+/home/vijay/dev/android/therapy_translator/res/drawable-hdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/res/values/strings.xml \
+/home/vijay/dev/android/therapy_translator/res/drawable-ldpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/res/drawable-mdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/res/layout/main.xml \
+/home/vijay/dev/android/therapy_translator/res/drawable-xhdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/bin/res/drawable-hdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/bin/res/drawable-ldpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/bin/res/drawable-mdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/vijay/dev/android/therapy_translator/bin/AndroidManifest.xml \
